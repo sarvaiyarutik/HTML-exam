@@ -1,5 +1,5 @@
 
-  ![Website Preview](/mnt/data/d4989076-f193-4b03-960a-7a0533abfaf6.png)
+https://html-exam-e8nr-hs1exy25q-sarvaiyarutiks-projects.vercel.app
 
 # 🚴‍♂️ PURE CYCLES – Bicycle Website  
 ### *Modern Bicycle Store Website built using HTML & CSS Only*
